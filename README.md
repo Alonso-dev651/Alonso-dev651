@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:auto; height:16rem" src="https://media1.tenor.com/m/c67XWC0HaEwAAAAd/gojo-toji.gif"/>
+  <img style="width:auto; height:16rem" src="https://media1.tenor.com/m/iZjSGTjKzyQAAAAC/shinei-nouzen-86.gif"/>
 </p>
 
 <h1 align="center">Hi, I'm Alonso<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
