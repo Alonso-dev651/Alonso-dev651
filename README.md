@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://tenor.com/search/jujutsu+kaisen-gifs"/>
+  <img style="width:8rem; height:auto" src="https://media1.tenor.com/m/bNfEXoGlp5EAAAAC/jujutsu-kaisen-gojo.gif"/>
 </p>
 
 <h1 align="center">Hi, I'm Alonso<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
