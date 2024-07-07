@@ -15,14 +15,14 @@
 Alonso-dev651@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
+📚 I have a Student in Computer Cience in José Pardo Institute
+📝 I have a strong interest in Programing with JS & PHP
+🔭 Working on Deep Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: C#, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🎵 Pop, K-Pop, rock and soft music
 ```
 <hr>
 
