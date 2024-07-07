@@ -26,7 +26,7 @@ Alonso-dev651@github
 ```
 <hr>
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" align="right" style="height:12rem"/>
 
 ### 🛠 &nbsp;Tech Stack
 
