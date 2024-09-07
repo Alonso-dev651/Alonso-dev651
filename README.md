@@ -14,14 +14,14 @@
 ```
 Alonso-dev651@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Student in Computer Cience in José Pardo Institute
-📝 I have a strong interest in Programing with JS & PHP
-🔭 Working on Deep Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+💻 I am a self-taught Full Stack developer
+📚 I am a Computer Science student at the José Pardo Institute
+📝 I have a great interest in programming with JS and PHP
+🔭 No job at the moment
+🌱 Learning about JS and PHP Framework
 🌟 Main languages: C#, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
+🚩 Interested in developing applications
+💖 In a complicated relationship with neural networks
 🎵 Pop, K-Pop, rock and soft music
 ```
 <hr>
