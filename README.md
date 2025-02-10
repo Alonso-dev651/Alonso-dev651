@@ -14,33 +14,62 @@
 ```
 Alonso-dev651@github
 -------------------------
-💻 I am a self-taught Full Stack developer
-📚 I am a Computer Science student at the José Pardo Institute
-📝 I have a great interest in programming with JS and PHP
-🔭 No job at the moment
-🌱 Learning about JS and PHP Framework
-🌟 Main languages: C#, JavaScript
+💻 I'm a self-taught Full Stack developer
+📚 I'm a computer technician from the José Pardo Institute
+📝 I have a great interest in programming with Java and JS
+🔭 I work remotely
+🌱 Learning about JS, Spring Boot 3 Framework and Cloud Architecture.
+🌟 Main languages: Java, C#, JavaScript
 🚩 Interested in developing applications
-💖 In a complicated relationship with neural networks
-🎵 Pop, K-Pop, rock and soft music
+💖 In a complicated relationship with JavaScript
 ```
 <hr>
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" align="right" style="height:10rem; width:auto"/>
+## Programming Languages
 
-### 🛠 &nbsp;Tech Stack
+<p>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flate&logo=openjdk&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-00C7B7.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0078D4?style=flat&logo=mysql&logoColor=white"></a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+## Frameworks and Libraries
+<p>
+   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+   <a href="#"><img alt="ReactJS" src="https://shields.io/badge/React-black?logo=react"></a>
+   <a href="#"><img alt="Astro" src="https://img.shields.io/badge/astro-black?logo=astro&color=%232f4cb3"></a>
+</p>
+
+
+## Operating Systems
+
+<p>
+	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+</p>
+
+## Databases and Cloud hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"></a>
+</p> 
+
+## Software and Tools
+<p>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"></a>
+	<a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white"></a>
+</p>
+
+## Github Stats
+
+![Alonso-dev651 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alonso-dev651&show_icons=true&theme=radical) </br>
+
+[![An image of @alonsodev651's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alonsodev651)](https://holopin.io/@alonsodev651)
